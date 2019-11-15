@@ -5,7 +5,7 @@ import com.opensymphony.xwork2.ActionSupport;
 public class WelcomeAction extends ActionSupport{
 
 	/**
-	 * namnv 
+	 * namnv 2019-dev
 	 */
 	private static final long serialVersionUID = 1L;
 
